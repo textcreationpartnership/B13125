@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation prohibiting the importation of forraine gun-powder, and that His Maiesties subiects may be constantly supplied out of His Maiesties store-houses.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13125</idno><idno type="EEBO-CITATION">99892621</idno>
+  <idno type="VID">185777</idno>
+  <idno type="EEBO-PROQUEST">2248560633</idno>
+  
+            <idno type="STC">STC 9080</idno>
+            <idno type="STC">Interim Tract Supplement Guide 506.h.12[50]</idno>
+            <idno type="STC">ESTC S123789</idno>
+            <idno type="PROQUEST">ocm99892621</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892621e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13125)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185777)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C2:3[50])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation prohibiting the importation of forraine gun-powder, and that His Maiesties subiects may be constantly supplied out of His Maiesties store-houses.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>2 sheets ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Barker, printer to the Kings most excellent Maiestie: and by the assignes of Iohn Bill,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1636 [i.e. 1637].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: VVestminster, the twentieth day of February, in the twelfth yeere of His Highnesse reigne. ...</note>
+                  <note>Imprint from colophon. The publication year is given according to Lad</note>
+                  <note>Arms 23 (with C R at the top); Steele notation: other minions, 2) pow-  Star-.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Gunpowder --  Law and legislation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:185777:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <head>❧ By the King.</head>
+            <head>¶ A Proclamation prohibiting the Importation of forraine Gun-powder, and that His Maiesties Subiects may be constantly supplied out of His Maiesties Store-houses.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas the Prouidence of Almighty God, amongst many other</hi> blessings to this Kingdome, hath furnished the same with Mines of Salt-Peter for making sufficient store of Gun-powder, for the Seruice and Defence of the same; And whereas His Maiestie out of His Princely care of the safety of His Kingdomes, hath so pro<g ref="char:EOLhyphen"/>uided for the digging and working of Salt-Peter, and conuer<g ref="char:EOLhyphen"/>ting and making the same into Gun-powder within His own Do<g ref="char:EOLhyphen"/>minions, as that there shall be alwayes ready in His Maiesties Magazines or Store-houses, such competent proportions of good and seruiceable Gun-pow<g ref="char:EOLhyphen"/>der, as shall be necessary, not only for His Maiesties owne vse, but for the supplies of His Sub<g ref="char:EOLhyphen"/>iects, for their expence at Sea and Land: His Maiesty therfore, for the better settling a work of such Importance as the making of Peter, and Powder in His owne Kingdomes; And that the makers thereof, appointed by His Maiestie, may receiue no interruption or discourage<g ref="char:EOLhyphen"/>ment therein; Doeth hereby signifie His Royall Will and Pleasure to bee, And doeth straitly Charge and Command, That no person or persons whatsoeuer, either His naturall borne Subiects, Denizens or Strangers, doe at any time or times hereafter Import, or bring, or cause to bee Imported or brought into His Dominions of <hi>England, Wales,</hi> or <hi>Ireland,</hi> or any of them, or into any the Ports, Hauens, Creeks, or places there<g ref="char:EOLhyphen"/>of, any Gun-powder whatsoeuer, made, or to bee made in any forreine parts or places, to bee sold or put to sale here, vpon paine of the forfeiture thereof: The same Gun-powder to be seised to His Maiesties vse, And the moity of the value thereof to be paid to such person or per<g ref="char:EOLhyphen"/>sons as shall make seisure of the same, vpon his or their Deliuery thereof into His Maiesties Store-house; And also vpon paine of His Maiesties high Indignation and displeasure, and such further penalties and punishments as may be inflicted on the offendors, for the Contempt of His Royall Commandment in that behalfe.</p>
+            <p>And His Maiestie doeth also require and command all and singular the Officers of His Customes within all and euery the Ports of the same His Dominions, and the Creeks, and members thereof, That they, and euery of them, from henceforth wholly forbeare to take, or
+<pb facs="tcp:185777:2"/>make any Entries or Compositions, for the Custome, Subsidie, or other dutie for any Gun-pow<g ref="char:EOLhyphen"/>der, brought, or to be brought into any His said Dominions from any forraine parts, to be vtte<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nd or sold here: And also that they, and euery of them (whom it doth or shall concerne) do stay and seise as forfeited to the vses aforesaid, all such forraine Gun-powder as after the date here<g ref="char:EOLhyphen"/>of shall be by any person or persons conueied, or brought into any Port or Creek of the same His Maiesties Dominions to be vttered or sold, vpon paine of forfeiture of their Offices, and of vn<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ergoing His Maiesties high Indignation and displeasure, with such further punishments, as their Contempts or defaults herein shall deserue.</p>
+            <p>And to the intent His Maiesties Subiects may from time to time bee duely supplied with powder; His Maiestie, out of His Royall Care in that behalfe, hath giuen expresse Order and Command, that His Officers shall be prouided at all times hereafter, and shall haue in their cu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>dy in His said Magazines or Store-houses, sufficient quantities of Gun-powder, from whence His Subiects shall and may from time to time, buy, and haue therof, by greater or lesser quantities at their pleasures,or lesser quantities at their pleasures,powder may be limitted to a moderate gaines thereby; His Maiestie doth hereby declare His Royall Will and Commandment to be, That no person or persons that now dealeth, or hereaf<g ref="char:EOLhyphen"/>ter shall deale in Retailing of Gun-powder within the Citie of <hi>London,</hi> and within thirtie miles thereof, or within thirtie miles of any of His Maiesties Ports, shall vtter or sell the same aboue the rate or price of One shilling eight pence the pound: But for such Ports or places as shall bee shirtie miles distant or more from <hi>London,</hi> or any His Maiesties said Ports, in such cases the said Retailers may sell the same at One shilling eight pence helf-peny the pound, and not aboue; which half-peny increase of price is allowed for the Land-Carriage of the same Powder.</p>
+            <p>And His Maiestie doth hereby further declare His expresse Will and Pleasure to be, and doth straightly Charge and Command, That no person or persons whatsoeuer, other then His Ma<g ref="char:EOLhyphen"/>iesties Makers of Gun-powder, who now haue, or hereafter shall be contracted with, shall at any time or times hereafter make, or cause to be made any Gun-powder, within any His Maie<g ref="char:EOLhyphen"/>sties Dominions of <hi>England, Wales,</hi> or <hi>Ireland,</hi> or any of them, either by the vse of Hand-mills, Wa<g ref="char:EOLhyphen"/>ter-mills, or otherwise, vpon paine of the Forfeiture as well of the same Powder so made, as if the Engines and Instruments to be vsed thereabout, and to haue the same Mills to be demo<g ref="char:EOLhyphen"/>lished, and the Offendors therein to bee further proceeded against in Our Court of Star-Chamber, or otherwise punished, according to their Contempts and Offences herein.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at His Maiesties Palace of Westminster, </hi>
+                  <date>
+                     <hi>the twentieth day of February, in the twelfth yeere of His Highnesse Reigne.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God saue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Robert Barker, Printer to the Kings most Excellent Maiestie: And by the Assignes of IOHN BILL. 1636.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
